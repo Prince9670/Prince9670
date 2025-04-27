@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Frontend Developer<br>👯 I’m Backend Developer<br>🤝 I’m looking for help with<br>🌱 I’m currently Software Developer<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m Frontend Developer<br>👯 I’m Backend Developer<br>🤝 I’m looking for Android Developer<br>🌱 I’m currently Software Developer<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
