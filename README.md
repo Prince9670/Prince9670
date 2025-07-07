@@ -1,9 +1,9 @@
 # 💫 About Me:
-💼 I’m a Full Stack Web Developer (React, Node.js, MongoDB)
-🎯 Focused on building clean, user-centric, scalable web applications
-🧠 Learning advanced UI/UX, microservices, and performance optimization
-🌍 Delivered projects for clients in E-commerce, EdTech, SAAS, HealthTech and more
-💬 Ask me about web development, React, Redux, REST APIs, MongoDB
+💼 I’m a Full Stack Web Developer (React, Node.js, MongoDB) <br/>
+🎯 Focused on building clean, user-centric, scalable web applications <br/>
+🧠 Learning advanced UI/UX, microservices, and performance optimization <br/>
+🌍 Delivered projects for clients in E-commerce, EdTech, SAAS, HealthTech and more <br/>
+💬 Ask me about web development, React, Redux, REST APIs, MongoDB <br/>
 📫 Reach me at: Kaushalprince3105@gmail.com
 
 
