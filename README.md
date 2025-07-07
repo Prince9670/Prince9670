@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m Frontend Developer<br>👯 I’m Backend Developer<br>🤝 I’m looking for Android Developer<br>🌱 I’m currently Software Developer<br>💬 Ask me about<br>⚡ Fun fact
+💼 I’m a Full Stack Web Developer (React, Node.js, MongoDB)
+🎯 Focused on building clean, user-centric, scalable web applications
+🧠 Learning advanced UI/UX, microservices, and performance optimization
+🌍 Delivered projects for clients in E-commerce, EdTech, SAAS, HealthTech and more
+💬 Ask me about web development, React, Redux, REST APIs, MongoDB
+📫 Reach me at: Kaushalprince3105@gmail.com
 
 
 ## 🌐 Socials:
